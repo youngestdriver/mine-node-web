@@ -16,6 +16,5 @@
 
 3. 修改代码开头的以下内容：
 ```
-const MY_TOKEN = '123';  // 将'123'替换为您想要的密码
 const KV_NAMESPACE = KV; // 确保 KV 是您在 Cloudflare Workers 设置中绑定的变量名
 ```
